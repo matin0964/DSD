@@ -1,4 +1,5 @@
 # DSD
+I am Matin Mohammadi (with student number 401110329) and this is my project:
 ## The project is based in the branch master with the given format
 ### The directory "Code" contains my verilog project
 ### The directory "Document" contains my report on the project
