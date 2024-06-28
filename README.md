@@ -10,9 +10,11 @@ In directory named "Code" we have some .v files. In order to run the project in 
    
     ![image](https://github.com/matin0964/DSD/assets/119667054/f7a5751d-0dc3-440f-b22e-895ce9ad583f)
 
-select "Add Existing File" and then add the all .v files contained in the directory "Code"
+select "Add Existing File" and then add the all .v files contained in the directory "Code".
+
 4. Then you'll need to compile all these files, for that just select all of them (for example using Ctrl + A) and the right click on the selected items and under "Compile", choose "Compile All".
 The next step is to run test bench.
+
 5. under "Simulate" select "Start Simulation" and then "TB" under work and then press "ok":
 
 ![image](https://github.com/matin0964/DSD/assets/119667054/5f3a5d46-08a9-4866-ac5d-18f734d1e2ac)
