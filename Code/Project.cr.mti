@@ -1,0 +1,36 @@
+D:/matin/University/fourthSemester/DSD/Final/Code/ALU.v {1 {vlog -work work D:/matin/University/fourthSemester/DSD/Final/Code/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ArithmeticProcessor
+
+Top level modules:
+	ArithmeticProcessor
+
+} {} {}} D:/matin/University/fourthSemester/DSD/Final/Code/PROCESSOR.v {1 {vlog -work work D:/matin/University/fourthSemester/DSD/Final/Code/PROCESSOR.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PROCESSOR
+
+Top level modules:
+	PROCESSOR
+
+} {} {}} D:/matin/University/fourthSemester/DSD/Final/Code/REGISTER_FILE.v {1 {vlog -work work D:/matin/University/fourthSemester/DSD/Final/Code/REGISTER_FILE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REGISTER_FILE
+
+Top level modules:
+	REGISTER_FILE
+
+} {} {}} D:/matin/University/fourthSemester/DSD/Final/Code/Processor_tb.v {1 {vlog -work work D:/matin/University/fourthSemester/DSD/Final/Code/Processor_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} D:/matin/University/fourthSemester/DSD/Final/Code/MEMORY.v {1 {vlog -work work D:/matin/University/fourthSemester/DSD/Final/Code/MEMORY.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}

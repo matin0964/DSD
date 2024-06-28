@@ -1,0 +1,184 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\matin\University\fourthSemester\DSD\HW4
+vALU
+Z1 IE90`j2b23=8jMXVQWlC:P2
+Z2 V2Mi]5bn`dO59RI65>BX5i3
+Z3 dD:\matin\University\fourthSemester\DSD\Final\my_proj
+Z4 w1719306540
+Z5 8D:/matin/University/fourthSemester/DSD/Final/my_proj/ALU.v
+Z6 FD:/matin/University/fourthSemester/DSD/Final/my_proj/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/my_proj/ALU.v|
+Z9 o-work work -O0
+Z10 n@a@l@u
+Z11 !s100 lJBm6^EOQD[mia=^jMgDk2
+Z12 !s108 1719306543.475000
+Z13 !s107 D:/matin/University/fourthSemester/DSD/Final/my_proj/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vArithmeticProcessor
+Z14 !s100 bTGD5ed^QTZeldnClFVX>1
+Z15 I7XR96[3BTGZ1I:I`Kf<_k0
+Z16 Ved8ULhICkA^Z];I9GPKZZ3
+Z17 dD:\matin\University\fourthSemester\DSD\Final\Code
+Z18 w1719565259
+Z19 8D:/matin/University/fourthSemester/DSD/Final/Code/ALU.v
+Z20 FD:/matin/University/fourthSemester/DSD/Final/Code/ALU.v
+L0 1
+R7
+r1
+31
+Z21 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/Code/ALU.v|
+R9
+Z22 n@arithmetic@processor
+Z23 !s108 1719566403.731000
+Z24 !s107 D:/matin/University/fourthSemester/DSD/Final/Code/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDATA_MEMORY
+Z25 IW]]LL3cH1LYB]MSjVZnVd3
+Z26 V;fWN@Q6IMZnfzRQeVIeoG0
+R3
+Z27 w1719316023
+Z28 8D:/matin/University/fourthSemester/DSD/Final/my_proj/DATA_MEMORY.v
+Z29 FD:/matin/University/fourthSemester/DSD/Final/my_proj/DATA_MEMORY.v
+L0 1
+R7
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/my_proj/DATA_MEMORY.v|
+R9
+Z31 n@d@a@t@a_@m@e@m@o@r@y
+Z32 !s100 [<6lVDBD8kIXoBARVWzo=1
+Z33 !s108 1719316027.453000
+Z34 !s107 D:/matin/University/fourthSemester/DSD/Final/my_proj/DATA_MEMORY.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory
+Z35 !s100 f<eo]GbA5EIWk?_a3GN6U1
+Z36 IZKmZMMKm_C@UbfLY6HZb30
+Z37 V:ImU`S?fhDboOO_4cTW@_1
+R17
+Z38 w1719563369
+Z39 8D:/matin/University/fourthSemester/DSD/Final/Code/MEMORY.v
+Z40 FD:/matin/University/fourthSemester/DSD/Final/Code/MEMORY.v
+L0 1
+R7
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/Code/MEMORY.v|
+R9
+Z42 n@memory
+Z43 !s108 1719566403.832000
+Z44 !s107 D:/matin/University/fourthSemester/DSD/Final/Code/MEMORY.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z45 IE]7o@95@8Qf5hOTAI;P5?1
+Z46 VYnG_S5MXY]3GoRNLgK1]]2
+R3
+Z47 w1719316156
+R28
+R29
+L0 1
+R7
+r1
+31
+R30
+R9
+Z48 !s100 HbF[UXCf=1R:Sc1Moh>DK0
+Z49 !s108 1719316160.048000
+R34
+!i10b 1
+!s85 0
+!s101 -O0
+vPROCESSOR
+Z50 !s100 8ekVDPJ_>An^PPh?N[MQK3
+Z51 I=n=@d=>3PARcXnjD:A@oQ3
+Z52 V>KRaSi@m3d[F4fF5[L@eI1
+R17
+Z53 w1719565424
+Z54 8D:/matin/University/fourthSemester/DSD/Final/Code/PROCESSOR.v
+Z55 FD:/matin/University/fourthSemester/DSD/Final/Code/PROCESSOR.v
+L0 1
+R7
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/Code/PROCESSOR.v|
+R9
+Z57 n@p@r@o@c@e@s@s@o@r
+Z58 !s108 1719566403.948000
+Z59 !s107 D:/matin/University/fourthSemester/DSD/Final/Code/PROCESSOR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vREGISTER_FILE
+!i10b 1
+Z60 !s100 4Fl4HHI^h4cX<3edI9@ac1
+Z61 Ic?JbZPEQ_ZdcXSLki1O2b2
+Z62 V0fhhIm=na4;50j@T1J=B41
+R17
+Z63 w1719564439
+Z64 8D:/matin/University/fourthSemester/DSD/Final/Code/REGISTER_FILE.v
+Z65 FD:/matin/University/fourthSemester/DSD/Final/Code/REGISTER_FILE.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1719566404.239000
+!s107 D:/matin/University/fourthSemester/DSD/Final/Code/REGISTER_FILE.v|
+Z66 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/Code/REGISTER_FILE.v|
+!s101 -O0
+R9
+Z67 n@r@e@g@i@s@t@e@r_@f@i@l@e
+vTB
+Z68 I@Pa1<XP]OXKYZY0bImHeb2
+Z69 Vc<=32996OT2f`M7E_UhYX1
+R17
+Z70 w1719566398
+Z71 8D:/matin/University/fourthSemester/DSD/Final/Code/Processor_tb.v
+Z72 FD:/matin/University/fourthSemester/DSD/Final/Code/Processor_tb.v
+L0 1
+R7
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/Code/Processor_tb.v|
+R9
+n@t@b
+!i10b 1
+Z74 !s100 mTez2:mPPio]TX_eSF]i@0
+!s85 0
+Z75 !s108 1719566404.088000
+Z76 !s107 D:/matin/University/fourthSemester/DSD/Final/Code/Processor_tb.v|
+!s101 -O0
+vVECTOR_PROCESSOR
+Z77 ITQMcAdd@f[@81EUJj^57]1
+Z78 VH2IQ2mQig08^0?aCTKSgT3
+R3
+Z79 w1719319670
+Z80 8D:/matin/University/fourthSemester/DSD/Final/my_proj/VECTOR_PROCESSOR.v
+Z81 FD:/matin/University/fourthSemester/DSD/Final/my_proj/VECTOR_PROCESSOR.v
+L0 1
+R7
+r1
+31
+Z82 !s90 -reportprogress|300|-work|work|D:/matin/University/fourthSemester/DSD/Final/my_proj/VECTOR_PROCESSOR.v|
+R9
+Z83 n@v@e@c@t@o@r_@p@r@o@c@e@s@s@o@r
+Z84 !s100 T19]mM<m@jj_KjZmKU]BR1
+Z85 !s108 1719319674.723000
+Z86 !s107 D:/matin/University/fourthSemester/DSD/Final/my_proj/VECTOR_PROCESSOR.v|
+!i10b 1
+!s85 0
+!s101 -O0
